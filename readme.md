@@ -6,3 +6,17 @@
 •	Served as Technical Architect, Associate Designer for Tech Mahindra, designed and built today’s highly scalable B2B gateways for BT with Component oriented Architecture.
 •	Expertise in software Design & Development using Core Java, J2EE, Spring , Struts, Servlets, EJB (Mainly MDB), JSP, Custom Tags, MongoDB, JDBC, JavaStoredProcedures, WLI, JMS, ebXML, Weblogic Server & Axway SGI Server with Agility and Practices. 
 •	Excellent knowledge in Project Life Cycle, Product Life Cycle, SDLC, Project Management, Incident / Problem / Change Management exhibiting excellence in Project Tracking, Stakeholder Communication, analyzing KPIs etc. 
+
+Achievements
+•	Patent on DevOps optimization in ChatOps. 
+https://uspto.report/patent/grant/10983789 
+•	Patent on Securing 3rd Party Software, Source Analysis being processed. Application filed.
+•	Great Manger Award by Time of India Economic Times and People Business 2018.
+•	Code Gladiator Top 5 coders of the year by TechGig 2018
+•	Part of HyPo - iEnrich program by Allstate.
+•	Finding in MongoDB https://jira.mongodb.org/browse/SERVER-26921
+•	Reach for the Stars – Highest recongnization at Allstate.
+•	Best Project 2018, 2019 at Allstate.
+•	Manager Effectiveness score 100% for 2020 and 2021.
+•	Multiple Special recognitions by BT and Valuable Team player by Tech M.
+
